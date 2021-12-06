@@ -1,0 +1,1 @@
+proyecto para manejar git-github desde la IDE Atom
