@@ -4,3 +4,10 @@ from math import sqrt
 def hipotenusa(b, h):
     hip = sqrt(b ** 2 + h ** 2)
     return hip
+
+
+if __name__ == "__main__":
+
+    b = 3
+    h = 4
+    print(hipotenusa(b, h))
