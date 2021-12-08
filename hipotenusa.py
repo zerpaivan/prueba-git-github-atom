@@ -10,4 +10,4 @@ if __name__ == "__main__":
 
     b = 3
     h = 4
-    print(hipotenusa(b, h))
+    print("la hipotenusa es: ", hipotenusa(b, h))
