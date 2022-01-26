@@ -1,3 +1,4 @@
+# script para calcular la hipotenusa de un triangulo
 from math import sqrt
 
 
